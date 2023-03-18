@@ -104,6 +104,7 @@ body {
     color: #fff;
     background-color: #beb45a;
     border-radius: 0;
+    font-weight: bold;
 }
 .nav-pills .nav-link {
     color: #000;
