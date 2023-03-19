@@ -67,6 +67,10 @@ body {
     z-index: 0;
 }
 
+img {
+    height: 100%;
+}
+
 .picture img {
     width: 100%;
 }
