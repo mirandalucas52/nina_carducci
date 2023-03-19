@@ -66,9 +66,6 @@ img {
     z-index: 0;
 }
 
-.picture img {
-    width: 100%;
-}
 #about-me {
     flex: 2;
 }
